@@ -12,7 +12,9 @@ pip install latestTouki
 # How to coding 
 import latestTouki 
 
-answer = latestTouki.detect(["令和４年７月４日登記", "2023年6月24日", "Some text without a date"]) 
+index, answer = latestTouki.detect(["令和４年７月４日登記", "2023年6月24日", "Some text without a date"]) 
+ 
+print('index:', index) 
  
 print(answer)  
  
