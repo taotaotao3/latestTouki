@@ -2,7 +2,6 @@
 Hi! Thanks for comming my page. 
 When you want to know the latest date of all date with list.Please use latestTouki. 
  
-# Introduce 
 There are various ways to write the date of registration in Japan. 
 This method extracts only the exact date from them and returns the latest date. 
 Please input the list of dates as a list. 
